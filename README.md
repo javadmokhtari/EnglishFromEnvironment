@@ -35,3 +35,23 @@ Neither = هیچ یک
 Rigorous = دقیق
 
 Vague = مبهم
+
+# 2. Networking
+
+Jargon = اصطلاحات مخصوص یک صنف
+
+Intermittently = متناوب
+
+Spectrum = طیف
+
+Cargo = محموله
+
+Slab = قطعه، تکه
+
+Burst = شلیک، انفجار
+
+Analogy = مقایسه
+
+Proponent = طرفدار
+
+Roughly = تقریبا
