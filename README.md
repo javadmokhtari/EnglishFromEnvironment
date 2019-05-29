@@ -55,3 +55,22 @@ Analogy = مقایسه
 Proponent = طرفدار
 
 Roughly = تقریبا
+
+# 3. Machine Learning Andrew Ng
+
+Prevalent = رایج، مرسوم
+
+Pretain = پیشاپیش
+
+Fulfill = تحقق یافتن
+
+Practitioner = متخصص
+
+Carpenter = نجار
+
+Quadratic = درجه دوم
+
+Malignant = بدخیم
+
+Benign = خوش خیم
+
