@@ -74,3 +74,6 @@ Malignant = بدخیم
 
 Benign = خوش خیم
 
+Descent = نزول - سرازیر شدن
+
+
