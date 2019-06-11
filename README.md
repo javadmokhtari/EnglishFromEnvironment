@@ -76,8 +76,12 @@ Benign = خوش خیم
 
 Descent = نزول - سرازیر شدن
 
-# 4. Eminem Songs
+# 4. Songs
 
 homicide = آدم کشی
 
 bloom = شکوفه زدن
+
+# 5. Programming
+
+curated = گلچین
