@@ -85,3 +85,11 @@ bloom = شکوفه زدن
 # 5. Programming
 
 curated = گلچین
+
+# 6. Software Engineering
+
+criteria = معیار
+
+resemble = شبیه بودن
+
+elaborate = توسعه دادن
