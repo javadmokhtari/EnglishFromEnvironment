@@ -1,6 +1,9 @@
 # EnglishFromMidTermExams
 English words that I learn while reading for my mid exams.
 
+# TODO
+  - 1 find other meanings of these words and example sentences for each one.
+
 ## 1. Embedded RealTime Systems
 Intersection = تقاطع
 
