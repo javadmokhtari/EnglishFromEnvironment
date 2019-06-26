@@ -96,3 +96,11 @@ criteria = معیار
 resemble = شبیه بودن
 
 elaborate = توسعه دادن
+
+# 7. Dota2
+
+rough = خشن - زبر
+
+dodge = گول زدن
+
+underdog = ضعیف ترین آدم یا گروه
