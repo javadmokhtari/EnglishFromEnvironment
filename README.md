@@ -104,3 +104,7 @@ rough = خشن - زبر
 dodge = گول زدن
 
 underdog = ضعیف ترین آدم یا گروه
+
+# 8. XaaS
+
+ephemeral = کوتاه مدت
