@@ -108,3 +108,12 @@ underdog = ضعیف ترین آدم یا گروه
 # 8. XaaS
 
 ephemeral = کوتاه مدت
+
+# 9. Man Pages
+
+synopsis = خلاصه
+
+graft = پیوند زدن
+
+purge = پاک کردن - خالی کردن
+
