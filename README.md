@@ -111,7 +111,8 @@ ephemeral = کوتاه مدت
 
 hereafter = از این پس
 
-legacy = 
+vendor = فروشنده
+
 # 9. Man Pages
 
 synopsis = خلاصه
