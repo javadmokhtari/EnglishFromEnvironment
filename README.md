@@ -109,6 +109,9 @@ underdog = ضعیف ترین آدم یا گروه
 
 ephemeral = کوتاه مدت
 
+hereafter = از این پس
+
+legacy = 
 # 9. Man Pages
 
 synopsis = خلاصه
