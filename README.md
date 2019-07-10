@@ -113,6 +113,8 @@ hereafter = از این پس
 
 vendor = فروشنده
 
+drawback = مشکل
+
 # 9. Man Pages
 
 synopsis = خلاصه
