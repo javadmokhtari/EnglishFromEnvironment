@@ -124,3 +124,6 @@ graft = پیوند زدن
 purge = پاک کردن - خالی کردن
 
 provision = تدارک دیدن
+
+# 10. Linux
+lineage = سلسله تکامل
