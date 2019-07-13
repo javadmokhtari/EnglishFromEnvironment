@@ -115,6 +115,8 @@ vendor = فروشنده
 
 drawback = مشکل
 
+chvron = درجه ای که روی لباس می زنند
+
 # 9. Man Pages
 
 synopsis = خلاصه
