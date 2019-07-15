@@ -159,3 +159,12 @@ permanence
 drain
 
 Of all the?
+
+devise
+
+imply
+
+vital
+
+arduous
+
