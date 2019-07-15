@@ -168,3 +168,13 @@ vital
 
 arduous
 
+ensue
+
+virtually
+
+boom
+
+crisis
+
+pale
+
