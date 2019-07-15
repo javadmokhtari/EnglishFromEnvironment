@@ -133,16 +133,29 @@ lineage = سلسله تکامل
 # TPO3
 
 enclose
+
 aspiration
+
 texture
+
 instinctively
+
 shelter
+
 inspiration
+
 delight
+
 enrich
+
 contemporary
+
 trace
+
 dramatically
+
 permanence
+
 drain
+
 Of all the?
