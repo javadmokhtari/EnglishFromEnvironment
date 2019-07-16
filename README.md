@@ -132,49 +132,36 @@ lineage = سلسله تکامل
 
 # TPO3
 
-enclose
+enclose = محصور کردن
 
-aspiration
+aspiration = آرزو
 
-texture
+texture = بافت
 
-instinctively
+instinct = غریزه
 
-shelter
+inspire = الهام بخشیدن
 
-inspiration
+delight = شاد کردن، خوشحال کردن
 
-delight
+enrich = غنی سازی کردن
 
-enrich
+contemporary = معاصر
 
-contemporary
+trace = رد پا، ردیابی کردن
 
-trace
+dramatically = به طور چشم گیری
 
-dramatically
+drain = کشیدن
 
-permanence
+arduous = دشوار، پر زحمت
 
-drain
+ensue = منتج شدن
 
-Of all the?
+virtually = عملا
 
-devise
+crisis = بحران
 
-imply
+pale = رنگ پریده، کم رنگ
 
-vital
-
-arduous
-
-ensue
-
-virtually
-
-boom
-
-crisis
-
-pale
 
