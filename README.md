@@ -164,4 +164,5 @@ crisis = بحران
 
 pale = رنگ پریده، کم رنگ
 
+refute = refuse
 
