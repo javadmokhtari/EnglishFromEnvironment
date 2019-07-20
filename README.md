@@ -166,3 +166,45 @@ pale = رنگ پریده، کم رنگ
 
 refute = refuse
 
+# Official Guide to TOEFL Test
+
+undergraduate vs graduate vs postgraduate
+
+bias = تعصب
+
+TOEFL is 4 hours and score between 80-90 is a good score.
+
+Passages categories: Exposition, Argumentation, Historical
+
+exposition = شرح، تفسیر
+
+argumentation = استدلال
+
+pragmatic = غملگرا
+
+excerpt = گزیده، گلجین
+
+assess = ارزیابی کردن
+
+inference = استنتاج
+
+factual = واقعی
+
+taut
+
+slack
+
+sculpture = مجسمه
+
+deteriorate = بدتر شدن
+
+discolor
+
+intrude
+
+hoof =سٌم حیوان
+
+cannonball = گلوله توپ
+
+renaissance = رنسانس
+
