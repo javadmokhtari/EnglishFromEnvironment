@@ -5,206 +5,217 @@ English words that I learn while reading for my TOEFL exam.
   - 1 find other meanings of these words and example sentences for each one.
 
 ## 1. Embedded RealTime Systems
-Intersection = تقاطع
+1.Intersection = تقاطع
 
-Eclipse = گرفتگی
+2.Eclipse = گرفتگی
 
-Arguably = مسلما
+3.Arguably = مسلما
 
-Elder = پیر، مسن
+4.Elder = پیر، مسن
 
-Plant = دستگاه
+5.Plant = دستگاه
 
-Induce = وادار کردن
+6.Induce = وادار کردن
 
-Dissection = کالبد شکافی
+7.Dissection = کالبد شکافی
 
-loosely = آزادانه
+8.loosely = آزادانه
 
-Predicate = پیش فرض
+9.Predicate = پیش فرض
 
-Awkward = نامناسب، زشت
+10.Awkward = نامناسب، زشت
 
-Conversely = برعکس
+11.Conversely = برعکس
 
-Interwined = در هم آمیخته
+12.Interwined = در هم آمیخته
 
-Subtle = نامحسوس
+13.Subtle = نامحسوس
 
-Either = هریک
+14.Either = هریک
 
-Neither = هیچ یک
+15.Neither = هیچ یک
 
-Rigorous = دقیق
+16.Rigorous = دقیق
 
-Vague = مبهم
+17.Vague = مبهم
 
 # 2. Networking
 
-Jargon = اصطلاحات مخصوص یک صنف
+18.Jargon = اصطلاحات مخصوص یک صنف
 
-Intermittently = متناوب
+19.Intermittently = متناوب
 
-Spectrum = طیف
+20.Spectrum = طیف
 
-Cargo = محموله
+21.Cargo = محموله
 
-Slab = قطعه، تکه
+22.Slab = قطعه، تکه
 
-Burst = شلیک، انفجار
+23.Burst = شلیک، انفجار
 
-Analogy = مقایسه
+24.Analogy = مقایسه
 
-Proponent = طرفدار
+25.Proponent = طرفدار
 
-Roughly = تقریبا
+26.Roughly = تقریبا
 
 # 3. Machine Learning Andrew Ng
 
-Prevalent = رایج، مرسوم
+27.Prevalent = رایج، مرسوم
 
-Pretain = پیشاپیش
+28.Pretain = پیشاپیش
 
-Fulfill = تحقق یافتن
+29.Fulfill = تحقق یافتن
 
-Practitioner = متخصص
+30.Practitioner = متخصص
 
-Carpenter = نجار
+31.Carpenter = نجار
 
-Quadratic = درجه دوم
+32.Quadratic = درجه دوم
 
-Malignant = بدخیم
+33.Malignant = بدخیم
 
-Benign = خوش خیم
+34.Benign = خوش خیم
 
-Descent = نزول - سرازیر شدن
+35.Descent = نزول - سرازیر شدن
 
 # 4. Songs
 
-homicide = آدم کشی
+36.homicide = آدم کشی
 
-bloom = شکوفه زدن
+37.bloom = شکوفه زدن
 
 # 5. Programming
 
-curated = گلچین
+38.curated = گلچین
 
 # 6. Software Engineering
 
-criteria = معیار
+39.criteria = معیار
 
-resemble = شبیه بودن
+40.resemble = شبیه بودن
 
-elaborate = توسعه دادن
+41.elaborate = توسعه دادن
 
 # 7. Dota2
 
-rough = خشن - زبر
+42.rough = خشن - زبر
 
-dodge = گول زدن
+43.dodge = گول زدن
 
-underdog = ضعیف ترین آدم یا گروه
+44.underdog = ضعیف ترین آدم یا گروه
 
 # 8. XaaS
 
-ephemeral = کوتاه مدت
+45.ephemeral = کوتاه مدت
 
-hereafter = از این پس
+46.hereafter = از این پس
 
-vendor = فروشنده
+47.vendor = فروشنده
 
-drawback = مشکل
+48.drawback = مشکل
 
-chvron = درجه ای که روی لباس می زنند
+49.chvron = درجه ای که روی لباس می زنند
 
 # 9. Man Pages
 
-synopsis = خلاصه
+50.synopsis = خلاصه
 
-graft = پیوند زدن
+51.graft = پیوند زدن
 
-purge = پاک کردن - خالی کردن
+52.purge = پاک کردن - خالی کردن
 
-provision = تدارک دیدن
+53.provision = تدارک دیدن
 
 # 10. Linux
-lineage = سلسله تکامل
+
+54.lineage = سلسله تکامل
 
 # TPO3
 
-enclose = محصور کردن
+55.enclose = محصور کردن
 
-aspiration = آرزو
+56.aspiration = آرزو
 
-texture = بافت
+57.texture = بافت
 
-instinct = غریزه
+58.instinct = غریزه
 
-inspire = الهام بخشیدن
+59.inspire = الهام بخشیدن
 
-delight = شاد کردن، خوشحال کردن
+60.delight = شاد کردن، خوشحال کردن
 
-enrich = غنی سازی کردن
+61.enrich = غنی سازی کردن
 
-contemporary = معاصر
+62.contemporary = معاصر
 
-trace = رد پا، ردیابی کردن
+63.trace = رد پا، ردیابی کردن
 
-dramatically = به طور چشم گیری
+64.dramatically = به طور چشم گیری
 
-drain = کشیدن
+65.drain = کشیدن
 
-arduous = دشوار، پر زحمت
+66.arduous = دشوار، پر زحمت
 
-ensue = منتج شدن
+67.ensue = منتج شدن
 
-virtually = عملا
+68.virtually = عملا
 
-crisis = بحران
+69.crisis = بحران
 
-pale = رنگ پریده، کم رنگ
+70.pale = رنگ پریده، کم رنگ
 
-refute = refuse
+71.refute = refuse
 
 # Official Guide to TOEFL Test
 
-undergraduate vs graduate vs postgraduate
+72.undergraduate vs graduate vs postgraduate
 
-bias = تعصب
+73.bias = تعصب
 
 TOEFL is 4 hours and score between 80-90 is a good score.
 
 Passages categories: Exposition, Argumentation, Historical
 
-exposition = شرح، تفسیر
+74.exposition = شرح، تفسیر
 
-argumentation = استدلال
+75.argumentation = استدلال
 
-pragmatic = غملگرا
+76.pragmatic = غملگرا
 
-excerpt = گزیده، گلجین
+77.excerpt = گزیده، گلجین
 
-assess = ارزیابی کردن
+78.assess = ارزیابی کردن
 
-inference = استنتاج
+79.inference = استنتاج
 
-factual = واقعی
+80.factual = واقعی
 
-taut
+81.taut
 
-slack
+82.slack
 
-sculpture = مجسمه
+83.sculpture = مجسمه
 
-deteriorate = بدتر شدن
+84.deteriorate = بدتر شدن
 
-discolor
+85.discolor
 
-intrude
+86.intrude
 
-hoof =سٌم حیوان
+87.hoof =سٌم حیوان
 
-cannonball = گلوله توپ
+88.cannonball = گلوله توپ
 
-renaissance = رنسانس
+89.renaissance = رنسانس
+
+90.occupation = شغل
+
+91.overdue
+
+92.rhetorical
+
+93.locomotion
+
+94.paralysis
 
