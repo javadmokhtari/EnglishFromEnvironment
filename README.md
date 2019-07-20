@@ -10,6 +10,7 @@ English words that I learn while reading for my TOEFL exam.
   ## English Spell
   ## Meanings
   ## Example sentences
+  ## Search Option
 
 
 ## 1. Embedded RealTime Systems
