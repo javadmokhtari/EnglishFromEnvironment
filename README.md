@@ -3,6 +3,14 @@ English words that I learn while reading for my TOEFL exam.
 
 # TODO
   - 1 find other meanings of these words and example sentences for each one.
+  
+# Website
+
+  ## Count of Words
+  ## English Spell
+  ## Meanings
+  ## Example sentences
+
 
 ## 1. Embedded RealTime Systems
 1.Intersection = تقاطع
