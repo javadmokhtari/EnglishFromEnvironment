@@ -228,3 +228,4 @@ Passages categories: Exposition, Argumentation, Historical
 
 94.paralysis
 
+95. quota = سهمیه
