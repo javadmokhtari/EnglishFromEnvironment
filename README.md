@@ -222,10 +222,14 @@ Passages categories: Exposition, Argumentation, Historical
 
 91.overdue
 
-92.rhetorical
+92.rhetoric = فن بیان و نوشتن
 
 93.locomotion
 
 94.paralysis
 
 95. quota = سهمیه
+
+96. burst = شیوع، شکفتن، انفجار
+
+97. 
