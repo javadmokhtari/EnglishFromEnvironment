@@ -232,4 +232,5 @@ Passages categories: Exposition, Argumentation, Historical
 
 96. burst = شیوع، شکفتن، انفجار
 
-97. 
+## fine-art vs applied-art
+The main difference in fine art and applied art is that fine art is intended to create beauty and pleasure in looking while applied art is intended to be an aesthetic approach to performing a specific duty.
