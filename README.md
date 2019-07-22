@@ -237,3 +237,8 @@ The main difference in fine art and applied art is that fine art is intended to 
 
 97. paralysis = فلج بودن
 
+98. pot = گلدان، قابلمه، دیگ
+
+99. pertain
+
+100. 
