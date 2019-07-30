@@ -242,3 +242,37 @@ The main difference in fine art and applied art is that fine art is intended to 
 99. pertain
 
 100. 
+
+# TPO2
+
+101. approximately
+
+102. pace
+
+103. vegetation
+
+104. erosion
+
+105. loose
+
+106. soil
+
+107. delicate
+
+108. fragile
+
+109. progressively
+
+110. cultivate
+
+111. associate
+
+112. necessitate
+
+113. "devoid of"
+
+114. tremendous
+
+115. appointment
+
+116. "role of thumb"
