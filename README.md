@@ -276,3 +276,15 @@ The main difference in fine art and applied art is that fine art is intended to 
 115. appointment
 
 116. "role of thumb"
+
+# Photoshop
+
+117. Cantour = ?
+
+118. Swatch = یک نمونه کوچک برای نمایش رنگ و جنس یک نمونه بزرگتر
+
+119. Overlay = پوشاندن چیزی با یک لایه از چیز دیگر
+
+120. Feather = پر پرنده
+
+121. Decontaminate = اشکال زدایی
