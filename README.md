@@ -288,3 +288,7 @@ The main difference in fine art and applied art is that fine art is intended to 
 120. Feather = پر پرنده
 
 121. Decontaminate = اشکال زدایی
+
+# Music
+
+122. Gentle = ملایم
